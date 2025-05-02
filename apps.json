@@ -1,0 +1,24 @@
+{
+  "name": "sudo-self",
+  "identifier": "com.jessejesse.altstore",
+  "apps": [
+    {
+      "name": "sudo-self",
+      "bundleIdentifier": "xyz.jessejesse.sudo-self",
+      "developerName": "Jesse Jesse",
+      "subtitle": "App for sudo-self management",
+      "version": "1.0",
+      "versionDate": "2025-05-02T00:00:00+00:00",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://xyz.jessejesse.com/ipa/sudo-self.ipa?raw=true",
+      "localizedDescription": "sudo-self is an app for managing sudo-self operations.",
+      "iconURL": "https://xyz.jessejesse.com/assets/icon.png",
+      "tintColor": "a1261b",
+      "size": 12345678,
+      "screenshotURLs": [
+        "https://xyz.jessejesse.com/assets/screenshot1.png",
+        "https://xyz.jessejesse.com/assets/screenshot2.png"
+      ]
+    }
+  ]
+}
