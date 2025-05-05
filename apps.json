@@ -3,7 +3,7 @@
   "subtitle": "Custom iOS apps by sudo-self.",
   "description": "Welcome to the official sudo-self AltStore source. Stay tuned for exclusive iOS apps.",
   "iconURL": "https://netwise.vercel.app/favicon.png",
-  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/sudo.png",
   "website": "https://sudo-self.com",
   "tintColor": "#4B0082",
   "featuredApps": ["xyz.cypwn.sm64ios-60fps"],
@@ -12,8 +12,8 @@
       "name": "SuperMario64",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
-      "subtitle": "The N64 classic, now on iOS",
-      "localizedDescription": "A faithful port of Super Mario 64, rebuilt for iOS devices. Requires a device with an A9 chip or newer.",
+      "subtitle": "The N6 classic 4now on iOS",
+      "localizedDescription": "Super Mario 64, Requires a device with an A9 chip or newer.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/icon-192.png",
       "tintColor": "#CC0000",
       "screenshots": [
@@ -25,7 +25,7 @@
           "date": "2023-04-10T12:00:00-07:00",
           "size": 24000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
-          "localizedDescription": "Initial port. Smooth performance on supported devices.",
+          "localizedDescription": "incredibly stable 60FPS",
           "minOSVersion": "13.2"
         }
       ]
