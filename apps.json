@@ -1,24 +1,12 @@
 {
-  "name": "AltStore Repo",
-  "identifier": "com.sudo.self.altstore",
-  "apps": [
-    {
-      "name": "SuperMario64",
-      "bundleIdentifier": "com.sudo.self.supermario64",
-      "developerName": "Sudo Self",
-      "subtitle": "Super Mario 64 for iOS",
-      "version": "1.0",
-      "versionDate": "2025-05-02T00:00:00+00:00",
-      "versionDescription": "Initial release",
-      "downloadURL": "https://github.com/sudo-self/altstore-repo/raw/main/SuperMario64.ipa",
-      "localizedDescription": "Play Super Mario 64 on your iOS device.",
-      "iconURL": "https://link_to_icon_image.png",
-      "tintColor": "a1261b",
-      "size": 12345678,
-      "screenshotURLs": [
-        "https://link_to_screenshot1.png",
-        "https://link_to_screenshot2.png"
-      ]
-    }
-  ]
+  "name": "sudo-self Source",
+  "subtitle": "Custom iOS apps by sudo-self.",
+  "description": "Welcome to the official sudo-self AltStore source. Stay tuned for exclusive iOS apps.",
+  "iconURL": "https://bucket.jessejesse.com/EmojioneMonotoneOwl.png",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "website": "https://sudo-self.com",
+  "tintColor": "#121212",
+  "featuredApps": [],
+  "apps": [],
+  "news": []
 }
