@@ -9,8 +9,8 @@
   "featuredApps": ["io.github.supermario64.ios"],
   "apps": [
     {
-      "name": "Super Mario 64",
-      "bundleIdentifier": "io.github.supermario64.ios",
+      "name": "SuperMario64",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
       "subtitle": "The N64 classic, now on iOS",
       "localizedDescription": "A faithful port of Super Mario 64, rebuilt for iOS devices. Requires a device with an A9 chip or newer.",
@@ -26,7 +26,7 @@
           "size": 24000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
           "localizedDescription": "Initial port. Smooth performance on supported devices.",
-          "minOSVersion": "12.0"
+          "minOSVersion": "13.2"
         }
       ]
     }
