@@ -1,6 +1,6 @@
 {
   "name": "sudo-self source",
-  "subtitle": "Custom iOS apps by sudo-self.",
+  "subtitle": "iOS Apps on the way..",
   "description": "sudo-self source is live",
   "iconURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/deb.png",
   "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/sudo.png",
@@ -29,8 +29,31 @@
           "minOSVersion": "13.2"
         }
       ]
+    },
+    {
+      "name": "WiFiScanner",
+      "bundleIdentifier": "com.nrkvv.wifiscanner",
+      "developerName": "sudo-self",
+      "subtitle": "Scan WiFi networks on iOS",
+      "localizedDescription": "A lightweight utility for discovering nearby WiFi access points. Requires location permission.",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/wifiscanner-icon.png",
+      "tintColor": "#007AFF",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/wifiscanner-ss1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-04-10T12:00:00-07:00",
+          "size": 8000000,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/WiFiScanner.ipa",
+          "localizedDescription": "Initial release.",
+          "minOSVersion": "7.0"
+        }
+      ]
     }
   ],
   "news": []
 }
+
 
