@@ -1,6 +1,6 @@
 {
   "name": "sudo-self source",
-  "subtitle": "iOS apps are on the way...",
+  "subtitle": "iOS apps on the way...",
   "description": "The sudo-self source is now live.",
   "iconURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/developer.png",
   "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/sudo.png",
@@ -13,7 +13,7 @@
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
       "subtitle": "The N64 classic, now on iOS",
-      "localizedDescription": "Play Super Mario 64 on your iOS device. Requires a device with an A9 chip or newer.",
+      "localizedDescription": "Play Super Mario 64 on your iOS device. Requires an A9 chip or newer.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/icon-192.png",
       "tintColor": "#CC0000",
       "screenshots": [
@@ -31,24 +31,24 @@
       ]
     },
     {
-      "name": "WiFiScanner",
-      "bundleIdentifier": "com.nrkvv.wifiscanner",
+      "name": "IPSW",
+      "bundleIdentifier": "com.hyperixa.IPSW",
       "developerName": "sudo-self",
-      "subtitle": "Scan nearby WiFi networks on iOS",
-      "localizedDescription": "A lightweight utility for discovering nearby WiFi access points. Requires location permission.",
-      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/refs/heads/main/lens-svgrepo-com-2.svg",
-      "tintColor": "#007AFF",
+      "subtitle": "Install IPSWs on-device",
+      "localizedDescription": "A tool to manage and install IPSW firmware files directly from your iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/AppIcon60x60@2x.png",
+      "tintColor": "#5E5CE6",
       "screenshots": [
-        "https://raw.githubusercontent.com/sudo-self/altstore-repo/refs/heads/main/lens-svgrepo-com-2.svg"
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/AppIcon76x76@2x~ipad.png"
       ],
       "versions": [
         {
           "version": "1.0",
           "date": "2023-04-10T12:00:00-07:00",
           "size": 8000000,
-          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/WiFiScanner_TS.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/IPSWs.1.0.ipa",
           "localizedDescription": "Initial release.",
-          "minOSVersion": "7.0"
+          "minOSVersion": "14.0"
         }
       ]
     }
