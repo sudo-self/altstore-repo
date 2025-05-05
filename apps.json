@@ -5,8 +5,31 @@
   "iconURL": "https://netwise.vercel.app/favicon.png",
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://sudo-self.com",
-  "tintColor": "#CCCCCC",
-  "featuredApps": [],
-  "apps": [],
+  "tintColor": "#4B0082",
+  "featuredApps": ["io.github.supermario64.ios"],
+  "apps": [
+    {
+      "name": "Super Mario 64",
+      "bundleIdentifier": "io.github.supermario64.ios",
+      "developerName": "sudo-self",
+      "subtitle": "The N64 classic, now on iOS",
+      "localizedDescription": "A faithful port of Super Mario 64, rebuilt for iOS devices. Requires a device with A9 chip or newer.",
+      "iconURL": "https://bucket.jessejesse.com/supermario64-icon.png",
+      "tintColor": "#CC0000",
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-04-10T12:00:00-07:00",
+          "size": 24000000,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
+          "localizedDescription": "Initial port. Smooth performance on supported devices.",
+          "minOSVersion": "12.0"
+        }
+      ]
+    }
+  ],
   "news": []
 }
