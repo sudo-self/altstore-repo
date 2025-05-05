@@ -24,7 +24,7 @@
           "version": "1.2.1",
           "date": "2023-04-10T12:00:00-07:00",
           "size": 24000000,
-          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/WiFiScanner_TS.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
           "localizedDescription": "incredibly stable 60FPS",
           "minOSVersion": "13.2"
         }
@@ -36,17 +36,17 @@
       "developerName": "sudo-self",
       "subtitle": "Scan WiFi networks on iOS",
       "localizedDescription": "A lightweight utility for discovering nearby WiFi access points. Requires location permission.",
-      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/wifiscanner-icon.png",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/refs/heads/main/lens-svgrepo-com-2.svg",
       "tintColor": "#007AFF",
       "screenshots": [
-        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/wifiscanner-ss1.png"
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/refs/heads/main/lens-svgrepo-com-2.svg"
       ],
       "versions": [
         {
           "version": "1.0",
           "date": "2023-04-10T12:00:00-07:00",
           "size": 8000000,
-          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/",
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/WiFiScanner_TS.ipa",
           "localizedDescription": "Initial release.",
           "minOSVersion": "7.0"
         }
