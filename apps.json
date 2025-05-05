@@ -24,7 +24,7 @@
           "version": "1.2.1",
           "date": "2023-04-10T12:00:00-07:00",
           "size": 24000000,
-          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/WiFiScanner_TS.ipa",
           "localizedDescription": "incredibly stable 60FPS",
           "minOSVersion": "13.2"
         }
@@ -46,7 +46,7 @@
           "version": "1.0",
           "date": "2023-04-10T12:00:00-07:00",
           "size": 8000000,
-          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/WiFiScanner.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/",
           "localizedDescription": "Initial release.",
           "minOSVersion": "7.0"
         }
