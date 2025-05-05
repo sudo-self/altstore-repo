@@ -1,7 +1,7 @@
 {
   "name": "sudo-self source",
-  "subtitle": "iOS Apps on the way..",
-  "description": "sudo-self source is live",
+  "subtitle": "iOS apps on the way...",
+  "description": "The sudo-self source is now live.",
   "iconURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/developer.png",
   "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/sudo.png",
   "website": "https://sudo-self.com",
@@ -12,8 +12,8 @@
       "name": "SuperMario64",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
-      "subtitle": "The N6 classic 4now on iOS",
-      "localizedDescription": "Super Mario 64, Requires a device with an A9 chip or newer.",
+      "subtitle": "The N64 classic, now on iOS",
+      "localizedDescription": "Play Super Mario 64 on your iOS device. Requires an A9 chip or newer.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/icon-192.png",
       "tintColor": "#CC0000",
       "screenshots": [
@@ -25,7 +25,7 @@
           "date": "2023-04-10T12:00:00-07:00",
           "size": 24000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
-          "localizedDescription": "incredibly stable 60FPS",
+          "localizedDescription": "Incredibly stable 60 FPS gameplay.",
           "minOSVersion": "13.2"
         }
       ]
@@ -34,8 +34,8 @@
       "name": "WiFiScanner",
       "bundleIdentifier": "com.nrkvv.wifiscanner",
       "developerName": "sudo-self",
-      "subtitle": "Scan WiFi networks on iOS",
-      "localizedDescription": "A lightweight utility for discovering nearby WiFi access points. Requires location permission.",
+      "subtitle": "Scan nearby WiFi networks on iOS",
+      "localizedDescription": "A lightweight utility to discover nearby WiFi access points. Requires location permission.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/refs/heads/main/lens-svgrepo-com-2.svg",
       "tintColor": "#007AFF",
       "screenshots": [
@@ -55,5 +55,4 @@
   ],
   "news": []
 }
-
 
