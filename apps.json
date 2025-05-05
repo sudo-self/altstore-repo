@@ -6,7 +6,7 @@
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://sudo-self.com",
   "tintColor": "#4B0082",
-  "featuredApps": ["io.github.supermario64.ios"],
+  "featuredApps": ["xyz.cypwn.sm64ios-60fps"],
   "apps": [
     {
       "name": "SuperMario64",
