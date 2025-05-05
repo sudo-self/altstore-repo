@@ -2,10 +2,10 @@
   "name": "sudo-self source",
   "subtitle": "Custom iOS apps by sudo-self.",
   "description": "Welcome to the official sudo-self AltStore source. Stay tuned for exclusive iOS apps.",
-  "iconURL": "https://bucket.jessejesse.com/EmojioneMonotoneOwl.png",
+  "iconURL": "https://netwise.vercel.app/favicon.png",
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://sudo-self.com",
-  "tintColor": "#121212",
+  "tintColor": "#CCC",
   "featuredApps": [],
   "apps": [],
   "news": []
