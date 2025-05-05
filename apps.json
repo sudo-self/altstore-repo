@@ -22,8 +22,8 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2023-04-10T12:00:00-07:00",
-          "size": 24000000,
+          "date": "2023-04-10T19:00:00Z",
+          "size": "24000000",
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
           "localizedDescription": "Initial port. Smooth performance on supported devices.",
           "minOSVersion": "12.0"
