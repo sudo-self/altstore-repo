@@ -1,6 +1,6 @@
 {
   "name": "sudo-self source",
-  "subtitle": "iOS apps on the way...",
+  "subtitle": "iOS apps are on the way...",
   "description": "The sudo-self source is now live.",
   "iconURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/developer.png",
   "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/sudo.png",
@@ -13,7 +13,7 @@
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
       "subtitle": "The N64 classic, now on iOS",
-      "localizedDescription": "Play Super Mario 64 on your iOS device. Requires an A9 chip or newer.",
+      "localizedDescription": "Play Super Mario 64 on your iOS device. Requires a device with an A9 chip or newer.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/icon-192.png",
       "tintColor": "#CC0000",
       "screenshots": [
@@ -35,7 +35,7 @@
       "bundleIdentifier": "com.nrkvv.wifiscanner",
       "developerName": "sudo-self",
       "subtitle": "Scan nearby WiFi networks on iOS",
-      "localizedDescription": "A lightweight utility to discover nearby WiFi access points. Requires location permission.",
+      "localizedDescription": "A lightweight utility for discovering nearby WiFi access points. Requires location permission.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/refs/heads/main/lens-svgrepo-com-2.svg",
       "tintColor": "#007AFF",
       "screenshots": [
@@ -55,4 +55,5 @@
   ],
   "news": []
 }
+
 
