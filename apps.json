@@ -39,7 +39,7 @@
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/ispw.png",
       "tintColor": "#5E5CE6",
       "screenshots": [
-        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/iispw.png"
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/iispw.jpg"
       ],
       "versions": [
         {
@@ -61,3 +61,4 @@
     }
   ]
 }
+
