@@ -6,9 +6,7 @@
   "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/sudo.png",
   "website": "https://sudo-self.com",
   "tintColor": "#4B0082",
-  "featuredApps": [
-    "xyz.cypwn.sm64ios-60fps"
-  ],
+  "featuredApps": ["xyz.cypwn.sm64ios-60fps"],
   "apps": [
     {
       "name": "SuperMario64",
@@ -41,7 +39,7 @@
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/ispw.png",
       "tintColor": "#5E5CE6",
       "screenshots": [
-        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/iispw.jpg"
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/iispw.png"
       ],
       "versions": [
         {
@@ -57,9 +55,11 @@
   ],
   "news": [
     {
+      "identifier": "news-2025-05-05-more-apps",
       "title": "More apps coming soon",
       "body": "We're working hard to bring more iOS apps to the sudo-self source. Stay tuned for upcoming releases!",
       "date": "2025-05-05T12:00:00-07:00"
     }
   ]
 }
+
