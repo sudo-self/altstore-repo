@@ -11,9 +11,9 @@
     {
       "name": "Super Mario 64",
       "bundleIdentifier": "io.github.supermario64.ios",
-      "developerName": "N64 sudo-self",
+      "developerName": "sudo-self",
       "subtitle": "The N64 classic, now on iOS",
-      "localizedDescription": "A faithful port of Super Mario 64, rebuilt for iOS devices. Requires a device with A9 chip or newer.",
+      "localizedDescription": "A faithful port of Super Mario 64, rebuilt for iOS devices. Requires a device with an A9 chip or newer.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/icon-192.png",
       "tintColor": "#CC0000",
       "screenshots": [
@@ -22,8 +22,8 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2023-04-10T19:00:00Z",
-          "size": "24000000",
+          "date": "2023-04-10T12:00:00-07:00",
+          "size": 24000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
           "localizedDescription": "Initial port. Smooth performance on supported devices.",
           "minOSVersion": "12.0"
