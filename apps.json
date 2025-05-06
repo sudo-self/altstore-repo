@@ -11,11 +11,11 @@
   ],
   "apps": [
     {
-      "name": "Super Mario 64",
+      "name": "SuperMario64",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
       "subtitle": "The N64 classic, now on iOS",
-      "localizedDescription": "A faithful port of Super Mario 64, rebuilt for iOS devices. This is the 60 FPS edition. Requires A9 chip or newer.",
+      "localizedDescription": "A faithful 60 FPS port of Super Mario 64, rebuilt for iOS devices. Requires iOS 13.2+ and an arm64 device.",
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/icon-192.png",
       "tintColor": "#CC0000",
       "screenshots": [
@@ -27,7 +27,7 @@
           "date": "2023-04-10T12:00:00-07:00",
           "size": 24000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
-          "localizedDescription": "Version 1.2.1 – 60 FPS build with improved compatibility. Smooth performance on supported devices.",
+          "localizedDescription": "v1.2.1 — 60 FPS version built with iOS SDK 15.2. Requires iOS 13.2 or later.",
           "minOSVersion": "13.2"
         }
       ]
