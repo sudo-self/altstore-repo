@@ -25,7 +25,7 @@
         {
           "version": "1.2.1",
           "date": "2023-04-10T12:00:00-07:00",
-          "size": "24000000",
+          "size": 24000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
           "localizedDescription": "Incredibly stable 60 FPS gameplay.",
           "minOSVersion": "13.2"
@@ -47,7 +47,7 @@
         {
           "version": "1.0",
           "date": "2023-04-10T12:00:00-07:00",
-          "size": "8000000",
+          "size": 8000000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/IPSWs.1.0.ipa",
           "localizedDescription": "Initial release.",
           "minOSVersion": "14.0"
