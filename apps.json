@@ -51,13 +51,12 @@
           "size": 4100000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/Iconic.ipa",
           "localizedDescription": "v1.0.0 — Initial release for AltStore.",
-          "minOSVersion": "18.4"
+          "minOSVersion": "18.4.1"
         }
       ]
     }
   ],
-  
- "news": [
+  "news": [
     {
       "title": "iconic OUT NOW!",
       "identifier": "jessejesse.xyz.lconic",
@@ -67,4 +66,7 @@
       "appID": "jessejesse.xyz.lconic",
       "date": "2025-05-11",
       "notify": false
-    },
+    }
+  ]
+}
+
