@@ -7,7 +7,8 @@
   "website": "https://sudo-self.com",
   "tintColor": "#4B0082",
   "featuredApps": [
-    "xyz.cypwn.sm64ios-60fps"
+    "xyz.cypwn.sm64ios-60fps",
+    "jessejesse.xyz.lconic"
   ],
   "apps": [
     {
@@ -31,8 +32,42 @@
           "minOSVersion": "13.2"
         }
       ]
+    },
+    {
+      "name": "Iconic",
+      "bundleIdentifier": "jessejesse.xyz.lconic",
+      "developerName": "sudo-self",
+      "subtitle": "Web-based app turned native.",
+      "localizedDescription": "Experience the iconic app with stability AI",
+      "iconURL": "https://iconic.jessejesse.xyz/icon.png",
+      "tintColor": "#4B0082",
+      "screenshots": [
+        "https://iconic.jessejesse.xyz/icon-512x512.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-05-11T00:00:00-07:00",
+          "size": 4100000,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/Iconic.ipa",
+          "localizedDescription": "v1.0.0 — Initial release for AltStore.",
+          "minOSVersion": "13.0"
+        }
+      ],
+      "launchScreen": "LaunchScreen",
+      "supportedDeviceFamilies": ["iPhone", "iPad"],
+      "minOSVersion": "13.0",
+      "platformVersion": "iphoneos18.4",
+      "platformBuild": "22E235",
+      "xcodeVersion": "Xcode 14.0",
+      "sdkVersion": "iphoneos18.4",
+      "deviceCapabilities": ["arm64", "wifi"],
+      "mainStoryboard": "Main",
+      "interfaceOrientations": ["portrait", "landscape"],
+      "requiredDeviceCapabilities": ["arm64", "wifi"]
     }
   ],
   "news": []
 }
+
 
