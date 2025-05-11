@@ -38,7 +38,7 @@
       "bundleIdentifier": "jessejesse.xyz.lconic",
       "developerName": "sudo-self",
       "subtitle": "Web-based app turned native.",
-      "localizedDescription": "Experience the iconic app with stability AI",
+      "localizedDescription": "Experience the iconic app with stability AI.",
       "iconURL": "https://iconic.jessejesse.xyz/icon.png",
       "tintColor": "#4B0082",
       "screenshots": [
@@ -69,5 +69,6 @@
   ],
   "news": []
 }
+
 
 
