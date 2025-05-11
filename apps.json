@@ -37,7 +37,7 @@
       "name": "Iconic",
       "bundleIdentifier": "jessejesse.xyz.Iconic",
       "developerName": "sudo-self",
-      "subtitle": "text-to-image with stability AI",
+      "subtitle": "text-to-image with Stability AI",
       "localizedDescription": "Experience the iconic app with Stability AI integration.",
       "iconURL": "https://iconic.jessejesse.xyz/apple-touch-icon.png",
       "tintColor": "#4B0082",
@@ -46,7 +46,7 @@
       ],
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1",
           "date": "2025-05-11",
           "size": 4100000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/Iconic.ipa",
@@ -69,5 +69,4 @@
     }
   ]
 }
-
 
