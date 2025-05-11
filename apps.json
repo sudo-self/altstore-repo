@@ -35,7 +35,7 @@
     },
     {
       "name": "Iconic",
-      "bundleIdentifier": "jessejesse.xyz.lconic",
+      "bundleIdentifier": "jessejesse.xyz.iconic",
       "developerName": "sudo-self",
       "subtitle": "text-to-image with stability AI",
       "localizedDescription": "Experience the iconic app with Stability AI integration.",
@@ -59,7 +59,7 @@
   "news": [
     {
       "title": "iconic OUT NOW!",
-      "identifier": "jessejesse.xyz.lconic",
+      "identifier": "jessejesse.xyz.iconic",
       "caption": "Stability AI text to image model",
       "tintColor": "#4B0082",
       "imageURL": "https://iconic.jessejesse.xyz/apple-touch-icon.png",
