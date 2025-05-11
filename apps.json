@@ -14,14 +14,6 @@
     {
       "name": "SuperMario64",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
-      "developerName": "sudo-self",
-      "subtitle": "The N64 classic, now on iOS",
-      "localizedDescription": "A faithful 60 FPS port of Super Mario 64, rebuilt for iOS devices. Requires iOS 13.2+ and an arm64 device.",
-      "iconURL": "https://github.com/sudo-self/altstore-repo/blob/main/icon-512.png",
-      "tintColor": "#CC0000",
-      "screenshots": [
-        "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
-      ],
       "versions": [
         {
           "version": "1.2.1",
@@ -36,39 +28,19 @@
     {
       "name": "Iconic",
       "bundleIdentifier": "jessejesse.xyz.lconic",
-      "developerName": "sudo-self",
-      "subtitle": "Web-based app turned native.",
-      "localizedDescription": "Experience the iconic app with stability AI.",
-      "iconURL": "https://iconic.jessejesse.xyz/icon.png",
-      "tintColor": "#4B0082",
-      "screenshots": [
-        "https://iconic.jessejesse.xyz/icon-512x512.png"
-      ],
       "versions": [
         {
           "version": "1.0.0",
           "date": "2025-05-11T00:00:00-07:00",
           "size": 4100000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/Iconic.ipa",
-          "localizedDescription": "v1.0.0 — Initial release for AltStore.",
-          "minOSVersion": "13.0"
+          "localizedDescription": "Stability ai text-to-image generator",
+          "minOSVersion": "18.4"
         }
-      ],
-      "launchScreen": "LaunchScreen",
-      "supportedDeviceFamilies": ["iPhone", "iPad"],
-      "minOSVersion": "13.0",
-      "platformVersion": "iphoneos18.4",
-      "platformBuild": "22E235",
-      "xcodeVersion": "Xcode 14.0",
-      "sdkVersion": "iphoneos18.4",
-      "deviceCapabilities": ["arm64", "wifi"],
-      "mainStoryboard": "Main",
-      "interfaceOrientations": ["portrait", "landscape"],
-      "requiredDeviceCapabilities": ["arm64", "wifi"]
+      ]
     }
   ],
   "news": []
 }
-
 
 
