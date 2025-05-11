@@ -17,7 +17,7 @@
       "developerName": "sudo-self",
       "subtitle": "The N64 classic, now on iOS",
       "localizedDescription": "A faithful 60 FPS port of Super Mario 64, rebuilt for iOS devices. Requires iOS 13.2+ and an arm64 device.",
-      "iconURL": "https://github.com/sudo-self/altstore-repo/blob/main/icon-512.png",
+      "iconURL": "https://github.com/sudo-self/altstore-repo/main/ispw.png",
       "tintColor": "#CC0000",
       "screenshots": [
         "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
@@ -39,7 +39,7 @@
       "developerName": "sudo-self",
       "subtitle": "Web-based app turned native.",
       "localizedDescription": "Experience the iconic app with Stability AI integration.",
-      "iconURL": "https://iconic.jessejesse.xyz/icon.png",
+      "iconURL": "https://iconic.jessejesse.xyz/apple-touch-icon.png",
       "tintColor": "#4B0082",
       "screenshots": [
         "https://iconic.jessejesse.xyz/icon-512x512.png"
