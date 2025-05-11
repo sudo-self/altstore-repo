@@ -47,7 +47,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "date": "2025-05-11T00:00:00-07:00",
+          "date": "2025-05-11",
           "size": 4100000,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/Iconic.ipa",
           "localizedDescription": "v1.0.0 — Initial release for AltStore.",
@@ -56,7 +56,15 @@
       ]
     }
   ],
-  "news": []
-}
-
-
+  
+ "news": [
+    {
+      "title": "iconic OUT NOW!",
+      "identifier": "jessejesse.xyz.lconic",
+      "caption": "Stability AI text to image model",
+      "tintColor": "#4B0082",
+      "imageURL": "https://iconic.jessejesse.xyz/apple-touch-icon.png",
+      "appID": "jessejesse.xyz.lconic",
+      "date": "2025-05-11",
+      "notify": false
+    },
