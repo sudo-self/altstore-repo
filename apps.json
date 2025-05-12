@@ -62,7 +62,7 @@
       "developerName": "sudo-self",
       "subtitle": "Classic Mario, Reimagined",
       "localizedDescription": "A custom iOS build of Mario Allstarz for iPhone and iPad. Optimized for iOS 15.6+.",
-      "iconURL": "https://marioallstarz.vercel.app/apple-touch-icon.png",
+      "iconURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/Image%2015.jpg",
       "tintColor": "#FF0000",
       "screenshots": [],
       "versions": [
