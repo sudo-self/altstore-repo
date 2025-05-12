@@ -8,7 +8,8 @@
   "tintColor": "#4B0082",
   "featuredApps": [
     "xyz.cypwn.sm64ios-60fps",
-    "jessejesse.xyz.Iconic"
+    "jessejesse.xyz.Iconic",
+    "jessejesse.xyz.MarioAllstarz"
   ],
   "apps": [
     {
@@ -54,6 +55,26 @@
           "minOSVersion": "18.4.1"
         }
       ]
+    },
+    {
+      "name": "MarioAllstarz",
+      "bundleIdentifier": "jessejesse.xyz.MarioAllstarz",
+      "developerName": "sudo-self",
+      "subtitle": "Classic Mario, Reimagined",
+      "localizedDescription": "A custom iOS build of Mario Allstarz for iPhone and iPad. Optimized for iOS 15.6+.",
+      "iconURL": "https://marioallstarz.vercel.app/apple-touch-icon.png",
+      "tintColor": "#FF0000",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-12",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/MarioAllstarz.ipa",
+          "localizedDescription": "v1.0.0 — Initial release for AltStore. Supports iOS 15.6+.",
+          "minOSVersion": "15.6"
+        }
+      ]
     }
   ],
   "news": [
@@ -69,3 +90,4 @@
     }
   ]
 }
+
