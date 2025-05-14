@@ -79,28 +79,28 @@
         }
       ]
     },
+   {
+  "name": "PunchOut",
+  "bundleIdentifier": "tyson.jessejesse.com.PunchOut-",
+  "developerName": "sudo-self",
+  "subtitle": "Mike Tyson, 1985",
+  "localizedDescription": "A slice of the past",
+  "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/punchout.png",
+  "tintColor": "#FF0000",
+  "screenshots": [
+    "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/punchout.png"
+  ],
+  "versions": [
     {
-      "name": "PunchOut",
-      "bundleIdentifier": "tyson.jessejesse.com.PunchOut-",
-      "developerName": "sudo-self",
-      "subtitle": "Mike Tyson, 1985",
-      "localizedDescription": "A slice of the past",
-      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/punchout.png",
-      "tintColor": "#FF0000",
-      "screenshots": [
-        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/punchout.png"
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-05-12",
-          "size": 26214400,
-          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/PunchOut.ipa",
-          "localizedDescription": "v1.0.0 — Initial release for AltStore. Supports iOS 15.6+.",
-          "minOSVersion": "15.6"
-        }
-      ]
+      "version": "1.0",
+      "date": "2025-05-12",
+      "size": 26214400,
+      "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/PunchOut.ipa",
+      "localizedDescription": "v1.0.0 — Initial release for AltStore. Supports iOS 15.6+.",
+      "minOSVersion": "15.6"
     }
+  ]
+}
   ],
   "news": [
     {
