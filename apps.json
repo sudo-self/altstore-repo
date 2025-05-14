@@ -75,9 +75,8 @@
           "minOSVersion": "15.6"
         }
       ]
-    }
-  ],
-   {
+    },
+    {
       "name": "PunchOut",
       "bundleIdentifier": "tyson.jessejesse.com.PunchOut",
       "developerName": "sudo-self",
@@ -111,6 +110,7 @@
     }
   ]
 }
+
 
 
 
