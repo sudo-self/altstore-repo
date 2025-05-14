@@ -10,7 +10,7 @@
     "xyz.cypwn.sm64ios-60fps",
     "jessejesse.xyz.Iconic",
     "jessejesse.xyz.MarioAllstarz",
-    "tyson.jessejesse.com.PunchOut-"
+    "tyson.jessejesse.com.PunchOut"
   ],
   "apps": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "name": "PunchOut",
-      "bundleIdentifier": "tyson.jessejesse.com.PunchOut-",
+      "bundleIdentifier": "tyson.jessejesse.com.PunchOut",
       "developerName": "sudo-self",
       "subtitle": "Mike Tyson, 1985",
       "localizedDescription": "A slice of the past",
