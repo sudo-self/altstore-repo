@@ -125,6 +125,29 @@
       ]
     }
   ],
+   {
+      "name": "Torrent Time",
+      "bundleIdentifier": "jessejesse.com.Torrent-Time",
+      "developerName": "sudo-self",
+      "subtitle": "create torrent files with ease",
+      "localizedDescription": "no software or heavy lifting",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/torrent.png",
+      "tintColor": "#B22222",
+      "screenshots": [
+        "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/torrent.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-12",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/TorrentTime.ipa",
+          "localizedDescription": "Creaate torrents to share files among friends",
+          "minOSVersion": "15.6"
+        }
+      ]
+    }
+  ],
   "news": [
     {
       "title": "Tomb Raider II",
