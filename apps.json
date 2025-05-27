@@ -108,10 +108,10 @@
       "developerName": "sudo-self",
       "subtitle": "Lara Croft Returns",
       "localizedDescription": "Relive the iconic adventures of Lara Croft in Tomb Raider II. Optimized for modern iOS devices.",
-      "iconURL": "https://github.com/sudo-self/altstore-repo/blob/main/laura.png",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/laura.png",
       "tintColor": "#B22222",
       "screenshots": [
-        "https://github.com/sudo-self/altstore-repo/blob/main/laura.png"
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/laura.png"
       ],
       "versions": [
         {
