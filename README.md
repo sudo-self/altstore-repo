@@ -3,9 +3,9 @@ https://tinyurl.com/sudo-self
 
 Add the source<br>
 
-<a href="https://raw.githubusercontent.com/sudo-self/altstore-repo/main/apps.json">https://raw.githubusercontent.com/sudo-self/altstore-repo/main/apps.json
+<a href="https://raw.githubusercontent.com/sudo-self/altstore-repo/main/apps.json">source link
 
-![Apps](https://github.com/user-attachments/assets/1f53b1ef-b027-4fe8-8bd4-d829aae313f1)
+![IMG_6F65B262AE5C-1](https://github.com/user-attachments/assets/750c144a-6e35-4ff1-8ac5-6d2847c01ef4)
 
 
 ### AltStore Source Example
