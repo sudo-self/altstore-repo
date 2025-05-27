@@ -111,7 +111,7 @@
       "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/croft.png",
       "tintColor": "#B22222",
       "screenshots": [
-        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/laura.png"
+        "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/laura.jpg"
       ],
       "versions": [
         {
@@ -131,7 +131,7 @@
       "identifier": "jessejesse.com.TombRaiderII",
       "caption": "Playstation Classic ported to iOS",
       "tintColor": "#4B0082",
-      "imageURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/croft.png",
+      "imageURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/laura.jpg",
       "appID": "jessejesse.com.TombRaiderII",
       "date": "2025-05-26",
       "notify": false
