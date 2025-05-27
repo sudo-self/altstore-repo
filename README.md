@@ -73,4 +73,11 @@ Add the source<br>
 ]
 
 ```
+### Privacy
 
+```
+"privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+}
+```
