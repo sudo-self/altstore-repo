@@ -55,3 +55,22 @@ Add the source<br>
 ]
 
 ```
+### App versions
+
+```
+
+"versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+]
+
+```
+
