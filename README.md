@@ -8,7 +8,7 @@ Add the source<br>
 ![Apps](https://github.com/user-attachments/assets/1f53b1ef-b027-4fe8-8bd4-d829aae313f1)
 
 
-AltStore Source Example
+### AltStore Source Example
 
 ```
 {
@@ -27,4 +27,31 @@ AltStore Source Example
   "apps": [],
   "news": [],
 }
+```
+### Adding iOS Apps Example
+
+```
+
+"apps": [
+    {
+        "name": "My Example App",
+        "bundleIdentifier": "com.example.myapp",
+        "marketplaceID": "12345678",
+        "developerName": "Example Developer",
+        "subtitle": "An awesome app.",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#F54F32",
+        "category": "utilities",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [],
+        "appPermissions": {},
+        "patreon": {},
+    },
+]
+
 ```
