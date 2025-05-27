@@ -123,9 +123,8 @@
           "minOSVersion": "15.6"
         }
       ]
-    }
-  ],
-   {
+    },
+    {
       "name": "Torrent Time",
       "bundleIdentifier": "jessejesse.com.Torrent-Time",
       "developerName": "sudo-self",
@@ -142,7 +141,7 @@
           "date": "2025-05-12",
           "size": 26214400,
           "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/TorrentTime.ipa",
-          "localizedDescription": "Creaate torrents to share files among friends",
+          "localizedDescription": "Create torrents to share files among friends",
           "minOSVersion": "15.6"
         }
       ]
@@ -161,7 +160,6 @@
     }
   ]
 }
-
 
 
 
