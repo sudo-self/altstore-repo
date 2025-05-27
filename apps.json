@@ -1,10 +1,10 @@
 {
   "name": "sudo-self source",
   "subtitle": "Custom iOS apps by sudo-self.",
-  "description": "Welcome to the official sudo-self AltStore source. Stay tuned for exclusive iOS apps.",
+  "description": "Welcome to the official sudo-self AltStore. Exclusive iOS App Releases.",
   "iconURL": "https://netwise.vercel.app/favicon.png",
   "headerURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/2.png",
-  "website": "https://sudo-self.com",
+  "website": "https://tinyurl.com/sudo-self",
   "tintColor": "#1E90FF",
   "featuredApps": [
     "xyz.cypwn.sm64ios-60fps",
@@ -127,13 +127,13 @@
   ],
   "news": [
     {
-      "title": "iconic OUT NOW!",
-      "identifier": "jessejesse.xyz.Iconic",
-      "caption": "Stability AI text to image model",
+      "title": "Tomb Raider II",
+      "identifier": "jessejesse.com.TombRaiderII",
+      "caption": "Playstation Classic ported to iOS",
       "tintColor": "#4B0082",
-      "imageURL": "https://iconic.jessejesse.xyz/apple-touch-icon.png",
-      "appID": "jessejesse.xyz.Iconic",
-      "date": "2025-05-11",
+      "imageURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/croft.png",
+      "appID": "jessejesse.com.TombRaiderII",
+      "date": "2025-05-26",
       "notify": false
     }
   ]
