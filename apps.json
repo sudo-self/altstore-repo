@@ -10,7 +10,8 @@
     "xyz.cypwn.sm64ios-60fps",
     "jessejesse.xyz.Iconic",
     "jessejesse.xyz.MarioAllstarz",
-    "tyson.jessejesse.com.PunchOut-"
+    "tyson.jessejesse.com.PunchOut-",
+    "jessejesse.com.TombRaiderII"
   ],
   "apps": [
     {
@@ -100,6 +101,28 @@
           "minOSVersion": "15.6"
         }
       ]
+    },
+    {
+      "name": "TombRaiderII",
+      "bundleIdentifier": "jessejesse.com.TombRaiderII",
+      "developerName": "sudo-self",
+      "subtitle": "Lara Croft Returns",
+      "localizedDescription": "Relive the iconic adventures of Lara Croft in Tomb Raider II. Optimized for modern iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/tombraiderii.png",
+      "tintColor": "#B22222",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/tombraiderii.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-12",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/TombRaiderII.ipa",
+          "localizedDescription": "v1.0 — First public release. Compatible with iOS 15.6+.",
+          "minOSVersion": "15.6"
+        }
+      ]
     }
   ],
   "news": [
@@ -115,6 +138,7 @@
     }
   ]
 }
+
 
 
 
