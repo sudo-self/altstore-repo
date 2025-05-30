@@ -1,3 +1,4 @@
+
 {
   "name": "Sudo-Self",
   "subtitle": "https://tinyurl.com/sudo-self",
@@ -15,7 +16,7 @@
     "jessejesse.com.Torrent-Time"
   ],
   "apps": [
-    {
+        {
       "name": "SuperMario64",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
       "developerName": "sudo-self",
@@ -193,8 +194,6 @@
     }
   ]
 }
-
-
 
 
 
